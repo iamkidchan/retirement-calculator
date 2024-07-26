@@ -125,3 +125,8 @@ footer p {
 .social-links a:hover {
     color: #2980b9;
 }
+.copyright {
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 10px;
+}
